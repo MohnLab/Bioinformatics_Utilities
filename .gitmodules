@@ -14,3 +14,12 @@
 [submodule "Read_mapping_to_pangenome_matrix"]
 	path = Read_mapping_to_pangenome_matrix
 	url = https://github.com/Roli-Wilhelm/read_mapping_to_pangenome_matrix.git
+[submodule "BackBlast_gene_cluster_finder"]
+	path = BackBlast_gene_cluster_finder
+	url = https://github.com/LeeBergstrand/BackBLAST-Gene-Cluster-Finder.git
+[submodule "Phylogenetic_tree_building"]
+	path = Phylogenetic_tree_building
+	url = https://github.com/LeeBergstrand/Phylogenetic-Tree-Building.git
+[submodule "Genbank_Downloaders"]
+	path = Genbank_Downloaders
+	url = https://github.com/LeeBergstrand/Genbank-Downloaders.git
