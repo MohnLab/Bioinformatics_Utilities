@@ -2,3 +2,6 @@
 	path = Bioinformatic_scripts
 	url = https://github.com/carden24/Bioinformatic_scripts.git
 
+[submodule "SIP-PLFA"]
+	path = SIP-PLFA
+	url = https://github.com/Roli-Wilhelm/SIP-PLFA.git
