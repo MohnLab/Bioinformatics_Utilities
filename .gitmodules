@@ -5,3 +5,12 @@
 [submodule "SIP-PLFA"]
 	path = SIP-PLFA
 	url = https://github.com/Roli-Wilhelm/SIP-PLFA.git
+[submodule "Scanning_for_CAZymes"]
+	path = Scanning_for_CAZymes
+	url = https://github.com/Roli-Wilhelm/Scanning_for_CAZymes.git
+[submodule "Get_Homologues_for_Pathway_tools"]
+	path = Get_Homologues_for_Pathway_tools
+	url = https://github.com/Roli-Wilhelm/get_homologues_to_pathway-tools.git
+[submodule "Read_mapping_to_pangenome_matrix"]
+	path = Read_mapping_to_pangenome_matrix
+	url = https://github.com/Roli-Wilhelm/read_mapping_to_pangenome_matrix.git
