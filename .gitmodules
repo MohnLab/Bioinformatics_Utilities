@@ -1,3 +1,7 @@
-[submodule "Bioinformatic_scripts"]
+[submodule "Erick Cardenas Bioinformatics scripts"]
 	path = Bioinformatic_scripts
 	url = https://github.com/carden24/Bioinformatic_scripts.git
+
+[submodule "Roli Wilhelm SIP-PLFA scripts"]
+	path = SIP-PLFA
+	https://github.com/Roli-Wilhelm/SIP-PLFA.git
