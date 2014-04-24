@@ -1,5 +1,4 @@
-Mohn Lab Repository
-====
+**Mohn Lab Repository**
 
 A collection of script used by members of the William Mohn Lab at the University of British Columbia
 
