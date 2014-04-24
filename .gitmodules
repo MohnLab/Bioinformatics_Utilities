@@ -1,0 +1,3 @@
+[submodule "Bioinformatic_scripts"]
+	path = Bioinformatic_scripts
+	url = https://github.com/carden24/Bioinformatic_scripts.git
