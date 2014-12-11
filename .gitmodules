@@ -23,3 +23,7 @@
 [submodule "Genbank_Downloaders"]
 	path = Genbank_Downloaders
 	url = https://github.com/LeeBergstrand/Genbank-Downloaders.git
+[submodule "Kendra Maas Scripts for figures"]
+	path = treatment_figs
+	url = https://github.com/krmaas/treatment_figs.git
+	
